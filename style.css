@@ -8,6 +8,9 @@ h2 {
 }
 
 .item {
-    width: 33%;
     display: inline-block;
+    width: 200px;
+    margin-left:
+    display: inline-block;
+    padding: 30px;
 }
