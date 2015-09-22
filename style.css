@@ -2,3 +2,12 @@ body {
     color: #e3c9b8;
     background: #540707;
 }
+
+h2 {
+    text-align: center;
+}
+
+.item {
+    width: 33%;
+    display: inline-block;
+}
